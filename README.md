@@ -6,4 +6,4 @@ Tools Used: C#, Unity
 
 ## Usage
 View the live deployment
-[Here}(https://blackjackwithatwist.netlify.app/)
+[Here](https://blackjackwithatwist.netlify.app/)
